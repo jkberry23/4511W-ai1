@@ -2,7 +2,7 @@ Most of this repo is companion code for Artificial Intelligence: A Modern Approa
 
 My work can be found in the following, most of which require access to methods from other files in this repository:
 
-  hw1:
+  hw1: familiarization with the codebase; no significant work
 
   hw2:
 
