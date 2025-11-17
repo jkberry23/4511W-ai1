@@ -4,7 +4,7 @@ My work can be found in the following, most of which require access to methods f
 
   hw1.py: familiarization with the codebase; no significant work
 
-  hw2.py:
+  hw2.py: iterative search on 8-puzzle and graphs
 
   hw4.py:
 
