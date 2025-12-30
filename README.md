@@ -6,6 +6,9 @@ My work can be found in the following, most of which require access to methods f
 
   hw2.py: iterative search on 8-puzzle and graphs
 
-  hw4.py:
+  hw3.py: decision tree search agent
 
-  csci-4511W-project:
+  hw4.py: first draft of project
+
+  csci-4511W-project: final draft; Monte Carlo player for the game "Saath Aath"
+
